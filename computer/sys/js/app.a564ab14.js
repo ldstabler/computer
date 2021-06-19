@@ -1992,7 +1992,7 @@
                     class: [a, c],
                     style: [r, l],
                     attrs: Object.assign({
-                        src: "../img/music163.png",
+                        src: "https://ldstabler.github.io/computer/computer/sys/img/music163.png",
                         width: "55",
                         height: "55",
                         viewBox: "0 0 48 48"
@@ -2162,7 +2162,7 @@
                     attrs: Object.assign({
                         version: "1.1",
                         id: "Layer_1",
-                        src: ".sys/img/bilibili.jpg",
+                        src: "https://ldstabler.github.io/computer/computer/sys/img/bilibili.jpg",
                         x: "0",
                         y: "0",
                         viewBox: "0 0 380.9 85",
