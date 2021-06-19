@@ -121,7 +121,7 @@
     1356: function(t, e, i) {},
     1766: function(t, e, i) {},
     "3a2d": function(t, e, i) {
-        t.exports = i.p + ".sys/img/SVG.jpg"
+        t.exports = i.p + "https://ldstabler.github.io/computer/computer/sys/img/SVG.jpg"
     },
     "43fb": function(t, e, i) {},
     4678: function(t, e, i) {
