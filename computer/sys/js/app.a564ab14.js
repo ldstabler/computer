@@ -4431,7 +4431,7 @@
                     title: "Powershell",
                     icon: "mdi-powershell",
                     iconcolor: "#FF0000",
-                    url: "https://cocalc.com/projects/f8e5158d-2e89-40f5-a578-35c044a564c8/files/Welcome%20to%20CoCalc.term?session=default",
+                    url: "https://console.python.org/python-dot-org-console/console_frame/",
                     isExternalUrl: !0,
                     isTaskbarVisible: !1,
                     isOpen: !1,
