@@ -4081,7 +4081,7 @@
                     this.$store.dispatch("closeAppAction", t)
                 },
                 searchInternet: function(t) {
-                    13 === t.keyCode && this.toggleAppUrl(2, "https://duckduckgo.com/?q=" + this.search, !0)
+                    13 === t.keyCode && this.toggleAppUrl(2, "https://duckduckgo.com/?q=%s" + this.search, !0)
                 },
                 openAdsterraDirect: function() {
                     window.open("https://www.passeura.com/c55cjgm3u?key=fd5c8ef8270209f0dffbb7c5c8355385", "_blank")
@@ -4197,7 +4197,8 @@
                     title: "Search",
                     icon: "mdi-magnify",
                     iconcolor: "#FBBD00",
-                    url: "https://www.duckduckgo.com/?q=",
+                    url: "https://duckduckgo.com/?q=%s
+",
                     isExternalUrl: !0,
                     isTaskbarVisible: !1,
                     isOpen: !1,
